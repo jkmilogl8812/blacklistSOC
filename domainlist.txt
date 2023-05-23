@@ -120,3 +120,4 @@ iqd.onion
 6yd.onion
 besmeargleor.com
 ak.hetaruwg.com
+ccleaner.tools.avcdn.net
