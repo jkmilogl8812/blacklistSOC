@@ -4,3 +4,4 @@ IP: 172.21.255.3  USER: pipewazuhtestar  DEVICE: SJV_VEGAS_FW
 IP: 62.122.184.252  USER: sshd  DEVICE: None
 IP: 10.2.180.1  USER: aruscgcsoc  DEVICE: AZURE-FW-FGT-A
 IP: 10.255.150.55  USER: jhon.perea  DEVICE: None
+IP: 185.11.61.88  USER: public  DEVICE: None
