@@ -1,1 +1,2 @@
 
+IP: 78.177.180.69  USER: admin  DEVICE: SJV_VEGAS_FW
